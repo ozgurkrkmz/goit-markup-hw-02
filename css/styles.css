@@ -61,10 +61,10 @@ body {
     font-family: "Roboto", sans-serif;
   }
   .webstudio-button:hover {
-    color: #404bbf;
+    color: #404BBf;
   }
   .webstudio-button:focus {
-    color: #404bbf;
+    color: #404BBf;
   }
   .header-menu {
     color: #2e2f42;
@@ -114,8 +114,11 @@ body {
     line-height: 1.2;
     color: #2e2f42;
   }
-  .ourportfolio-list {
+  .ourteam-list {
     background-color: #ffffff;
+  }
+  .ourteam {
+    background-color: #f4f4fd;
   }
   .header-logo .header-logo-second {
     color: #2e2f42;
