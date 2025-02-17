@@ -1,2 +1,2 @@
 # goit-markup-hw-02
-This is my second homework
+This is my 2nd homework
