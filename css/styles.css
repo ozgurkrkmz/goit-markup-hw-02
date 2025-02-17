@@ -162,7 +162,13 @@ body {
   }
   
   footer > a.footer-logo > span.footer-logo-second {
-    color: #f4f4fd;
+    color: #4d5ae5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
   }
   
   footer p.footer-text {
